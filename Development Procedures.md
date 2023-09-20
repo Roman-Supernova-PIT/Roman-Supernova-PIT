@@ -8,6 +8,8 @@ Broadly speaking, we need
 3. a SN cosmology catalog pipeline. 
 This will also include adjacent software, such as simulation tools, development and production environments, and community support interfaces.
 
+We will build a single pipeline repo/package that uses pinned requirements and `from package import *` in __init__.py files. This way, we can add packages/algorithms that we do not managage nor maintain. As apart of the PIT contract, we will provide a collection of sufficent packages that the pipeline can depend on, but we also know that these specific packages won't always be the best option for every analysis.
+
 ## Current tools we can repurpose
 
 - DES/See-Change SMP - Photometry
