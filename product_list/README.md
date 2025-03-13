@@ -5,3 +5,6 @@
 
 ### Simulated Data
 * OpenUniverse2024
+
+### News
+* https://www.nasa.gov/missions/roman-space-telescope/team-preps-to-study-dark-energy-via-exploding-stars-with-nasas-roman/
